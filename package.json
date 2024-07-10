@@ -1,19 +1,18 @@
 {
   "name": "utn-workshop1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Saimon1520/utn-workshop1.git"
-  },
-  "author": "",
+  "keywords": [
+    "qa",
+    "automation"
+  ],
+  "author": "Saimon",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Saimon1520/utn-workshop1/issues"
-  },
-  "homepage": "https://github.com/Saimon1520/utn-workshop1#readme"
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
 }
