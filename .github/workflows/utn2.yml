@@ -1,4 +1,4 @@
-name: utn-test-automatic-exec
+name: utn-test-manual-exec
 on:
     workflow_dispatch:
 jobs:
